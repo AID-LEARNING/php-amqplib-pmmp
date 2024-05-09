@@ -1,0 +1,8 @@
+name: PhpAmqpLib
+authors:
+  - php-amqplib
+  - SenseiTarzan
+antigen: PhpAmqpLib
+version: 0.0.1
+api:
+  - 5.0.0
